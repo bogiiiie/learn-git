@@ -1,8 +1,8 @@
-#Learn about git and github
+# Learn about git and github
 
 subscribe to me on youtube
 
 
 ```javascript
-    console.log("Hello I am Stephen);
+console.log("Hello I am Stephen);
 ```
